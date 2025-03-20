@@ -1,4 +1,4 @@
-### RoPhimm
+### RoPhim
 Công nghệ sử dụng:
 . Next.js
 . TailwindCSS
